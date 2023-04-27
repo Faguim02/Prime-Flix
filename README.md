@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Link: https://pokedex-api-fgm.netlify.app/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br>
+Link: https://pokedex-api-fgm.netlify.app/ <br>
 Tecnologias: React.js, Styled-components, Reacr-router-dom e axios
 
 ## Available Scripts
